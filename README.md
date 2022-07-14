@@ -147,7 +147,7 @@ The config map should be defined as a JSON data file. For example, save this as 
 
 ```
 {
-   "BLOG_SITE_NAME": "OpenShift Blog",
+   "BLOG_SITE_NAME": "RM-343499",
    "BLOG_BANNER_COLOR": "black"
 }
 ```
